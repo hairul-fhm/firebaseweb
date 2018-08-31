@@ -1,8 +1,8 @@
  firebase.initializeApp( {
 
-  apiKey: "AIzaSyBb5KTc320P1A688RxDEKf3i3uWksbOBCs",
-  authDomain: "firestoreapps-b3ed5.firebaseapp.com",
-  projectId: "firestoreapps-b3ed5"
+  apiKey: "ereredfdf", // from your console firebase
+  authDomain: "jkjkjk.com",
+  projectId: "jkjkjkj"
   });
  var db = firebase.firestore();
 
